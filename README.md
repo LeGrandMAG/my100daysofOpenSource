@@ -28,7 +28,9 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 Today, I was supposed to work an open source project, but I  opened an issue into the wepo homepage. I was using and alert to notify the user that they have submitted a form, but after more reading I came across a library called toastr. A JavaScript library that is used for displaying alert messages. I opened an issue about that and labelled it as good first issue and I got someone suggesting to help implementing that into our project.
 I assigned that issue to him.
 
-### Thoughts: not be a lazy programmer but I was planning to work on that issue on my own, I did not know that issues can be discovered so easily. The was very diligent. He even suggested to use a react-toastify library, which similar to toastr but works better on react  projects et even refactored some of my code.
+### Thoughts: 
+
+Okay, Not be a lazy programmer but I was planning to work on that issue on my own, I did not know that issues can be discovered so easily. The was very diligent. He even suggested to use a react-toastify library, which similar to toastr but works better on react  projects et even refactored some of my code.
 
 ### Thoughts :
 
@@ -65,5 +67,5 @@ Today I worked on a project and I contributed by providing the french translatio
 
 At first, I thought this will be easy given that there was already translation in French from France and in French from Canada. But after checking, I noticed that those translations were outdated in comparaison to the original English file. Do I had to go through to all the untranslated sentences and expressions, add them myself and translated them into French from DRCongo.
 
-
+Great 
 
