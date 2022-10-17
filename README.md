@@ -19,6 +19,14 @@ But As you know, I am probably not the best coder yer, so I will help contribute
 
 I hope this journey will be filled with a lot of teacheable moment, meeting with wonderful human being and outstanding project to to make a better world \:)
 
+# Day 8/100:
+
+### Progress:
+
+Worked on the Developer Quiz site by Free code camp. I also got to know that in the beginning we were worried that we might not have full propretary right to use the different library, snipet of code or anything like that, but I  came accross what was called the GNU and th MIT license. I understood that those license are all free to use but there is a huge huge difference. GNU GPL license does not allow the person who use it to pursue a full propretary project. All the projects that people are
+
+
+
 
 # DAy 7/100:
 
