@@ -20,6 +20,16 @@ But As you know, I am probably not the best coder yer, so I will help contribute
 I hope this journey will be filled with a lot of teacheable moment, meeting with wonderful human being and outstanding project to to make a better world \:)
 
 
+# DAy 7/100:
+
+### Progress : worked on the app suggestion idea
+# Day 6/100:
+### Progress : Conception
+
+# Day 5/100:
+
+### Progress: Designed  the conception
+
 
 ## Day 4/100:
 
