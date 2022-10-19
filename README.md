@@ -24,7 +24,20 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 
 
 ----------------------------
-# Day 9/100 October 18th:
+
+
+## Day 10/100 October 19th:
+
+### Progress:
+
+I just got a feedback from another contributors of the **Milan Project**. TIL that it is best practice to wrap you <a> in the h element and not the opposite. Also, I jut got my first ever [LGTM🎉🎉🎉](https://github.com/IAmTamal/Milan/pull/500#issuecomment-1283556823) . More dopamine!
+  
+Might contribute to other open source projects later today, but let see.
+  
+### Thoughts:
+  
+
+## Day 9/100 October 18th:
 
 ### Progess:
 
@@ -34,7 +47,7 @@ Thoughts October 17th:
 
 The original README file was associating some HTML but I personally thing that is much faster to write directly in markdown.
 
-# Day 8/100 October 16th:
+## Day 8/100 October 16th:
 
 ### Progress:
 
@@ -49,26 +62,50 @@ I am currently working in the developer team on a mobile marketplace for second-
 
 ## Day 7/100 October 15th:
 
-### Progress : worked on the app suggestion idea
+### Progress : 
+
+Today I did not contribute to any project. I took a break from programming.
+  
+### Thoughts:
+Nothing really, Nothing to share lol.
+
 ## Day 6/100 October 14th:
-### Progress : Conception
+### Progress : 
+Today, I still worked on the **Conception Project** but, this time, I did not raise any issue. I just contributed by submitting a project ideas. But unfortunately my code did not get merged yet. You can find my PR request at the link below [here](https://github.com/roopeshsn/conception/pull/19)
+
+
+### Thoughts:
+
+It is always a new experience to work with people with different perspectives, and different priority, that's is also the beauty of Open Source.
 
 ## Day 5/100 October 13th:
 
 ### Progress: 
 
-Today, I worked on designing the logo for the **Conception Project**. It is a web application woking as a directory for  app ideas as well as college project ideas. I noticed that the application did not have any favicon on its own. Instead, it was using Vercel's native favicon, lol. So, I opened an issue ([#17](https://github.com/roopeshsn/conception/issues/17)), design a logo using figma for Conception and made a favicon and push it. 
+Today, I worked on designing the logo for the **Conception Project**. It is a web application woking as a directory for  app ideas as well as college project ideas. I noticed that the application did not have any favicon on its own. Instead, it was using Vercel's native favicon, lol. So, I opened an issue ([#17](https://github.com/roopeshsn/conception/issues/17)), designed a logo using figma. Actually coming up with the logo was super easy. As the project concept is pretty clear to me "Directory of ideas" ==> I focused only on the concept **IDEA**. When I think of an idea I can easily illustrate it using the light bulb.I also used one of Figma's well-known plugin that turn any square frame into an ico file. ".icon" are the most used file for favicon. I also made a PNG file (with a transpaerent background) just in case he might be interested in adding it in his branding.
 
 Here is a picture with  on the right the vercel native favicon, and on the left the icon I designed.
 
-![image](https://user-images.githubusercontent.com/64711820/196618978-789ed1e1-810e-46e8-aed7-c19e52f947be.png)
-
+<div>
+  <div>
+  <img src="https://user-images.githubusercontent.com/64711820/196618978-789ed1e1-810e-46e8-aed7-c19e52f947be.png" height="200">
+    <p><em>Screenshot from VS code</em></p>
+  </div>
+  <div>
+    
+<img src="https://user-images.githubusercontent.com/64711820/196622132-51c909c7-7700-453b-bd90-bc9953619a5f.png" height="200">
+    <p><em>Screenshot from Figma</em></p>
+  </div>
+</div>
 
 ### Thoughts:
 
 This project was pretty hard to work for two reasons: Firstly, When I made my first commit, it seemed like the automation he has built has some issue and does deploy the app correctly. I am not even sure whether my change will be merge into production. Secondly, He was super rude, lol. Some people can be super mean when they work for free, lol.
 
-You can check out the Conception Web application [HERE](https://conception.vercel.app/)
+### Links:
+
+- You can check out the Conception Web application [**HERE**](https://conception.vercel.app/)
+- You can also check out the Figma project I used for this task [**HERE**](https://www.figma.com/file/nKv9Gp9YXGphWLkQIaMTl1/Conception?node-id=0%3A1)
 
 ## Day 4/100 October 12th:
 
