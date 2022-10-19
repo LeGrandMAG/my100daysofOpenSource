@@ -32,7 +32,7 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 
 I just got a feedback from another contributors of the **Milan Project**. TIL that it is best practice to wrap you <a> in the h element and not the opposite. Also, I jut got my first ever [LGTM🎉🎉🎉](https://github.com/IAmTamal/Milan/pull/500#issuecomment-1283556823) . More dopamine!
   
-Might contribute to other open source projects later today, but let see.
+Might contribute to other open source projects later today, but let's see.
   
 ### Thoughts:
   
@@ -70,6 +70,7 @@ Today I did not contribute to any project. I took a break from programming.
 Nothing really, Nothing to share lol.
 
 ## Day 6/100 October 14th:
+  
 ### Progress : 
 Today, I still worked on the **Conception Project** but, this time, I did not raise any issue. I just contributed by submitting a project ideas. But unfortunately my code did not get merged yet. You can find my PR request at the link below [here](https://github.com/roopeshsn/conception/pull/19)
 
@@ -118,7 +119,6 @@ I assigned that issue to him.
 
 Okay, Not be a lazy programmer but I was planning to work on that issue on my own, I did not know that issues can be discovered so easily. The was very diligent. He even suggested to use a react-toastify library, which similar to toastr but works better on react  projects et even refactored some of my code.
 
-### Thoughts :
 
 ## Day 3/100 October 11th:
 
@@ -152,6 +152,4 @@ Today I worked on a project and I contributed by providing the french translatio
 
 
 At first, I thought this will be easy given that there was already translation in French from France and in French from Canada. But after checking, I noticed that those translations were outdated in comparaison to the original English file. Do I had to go through to all the untranslated sentences and expressions, add them myself and translated them into French from DRCongo.
-
-Great 
 
