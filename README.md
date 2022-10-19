@@ -10,7 +10,7 @@ As you probably know, I am not one of those kids that started coding at 3 years 
 
 Back to the question, since I got serious about coding. I did not really build things from scratch. I have always been relaying on publicly available projects tha someone somewhere in a book or in youtube introduced to me. I did not come up with all the answers. Now thinking about it, there was always someone somewhere contributing or maintaining those projects for the world to use, **FOR FREE**. That, my friend, is open source. Now that I am becoming a better programmer, I can't be anything but grateful to all those people.
 
-Last month, I heard about the [Hacktoberfest](https://hacktoberfest.com/) 2022, a challenge that brings together the global community of coder or any tech enthousiast interested in giving back to the community by contributing to any open source project.
+Last month, I heard about the [**Hacktoberfest**](https://hacktoberfest.com/) 2022, a challenge that brings together the global community of coder or any tech enthousiast interested in giving back to the community by contributing to any open source project.
 
 
 This is the biggest motivation I have ever had. If those Youtubers can contribute to the fondation of our technologies today, whu can't i? Here I am now challenging myself.
@@ -19,6 +19,11 @@ But As you know, I am probably not the best coder yer, so I will help contribute
 
 I hope this journey will be filled with a lot of teacheable moment, meeting with wonderful human being and outstanding project to to make a better world \:)
 
+
+
+
+
+----------------------------
 # Day 9/100 October 18th:
 
 ### Progess:
@@ -35,29 +40,41 @@ The original README file was associating some HTML but I personally thing that i
 
 Today, I worked on the [Developer Quiz Project](https://github.com/freeCodeCamp/Developer_Quiz_Site) by [freeCodeCamp](https://www.freecodecamp.org/). It is an open-source project made of over 900 questions in python, sql, javascript DevOps, QA for helping the community test their skills and learn new concepts. My contribution was mostly about refactoring the Hero section as well as the styling as raised by the following issue ([#416](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/416)).
 
-Check out the live version of the project [HERE](https://developerquiz.org/)
-
 I also got to know that in the beginning we were worried that we might not have full propretary right to use the different library, snipet of code or anything like that, but I  came accross what was called the GNU and th MIT license. I understood that those license are all free to use but there is a huge huge difference. Projects or source with a GNU GPL license does not allow the person who uses them to build something with a commercial purpose. For instance, Project G is the GNU GPL licensed project. Even though any developer or software engineer around the world can freely use them in their GX project, their project is automatically inheriting from the GNU license from project G, and should not mbe commercialized. To cut it short GNU project limits dev from using them from commercial purpose, it fully open-source all the way in. Whereas MIT Licensed project give does not hinder people from using them in commercial software. For instance if someone somewhere build made a Project M under MIT license, no matter who uses it in their Project MX, they have the freedom to use it in anyway possible.
 
+### Thoughts:
+
+I am currently working in the developer team on a mobile marketplace for second-hand products in Congo called WEPO. Even though their are things that we are trying to build from scratch, there have been many libraries, frameworks, snipet of codes that we are integrating to our code. We were worried that we might not be able to License our software but after today's work on open source, I think we should be careful about the code we are using for some snipet of codes, library or framework cannot be used, multiplied or distributed for commercial-use.
 
 
-
-# Day 7/100 October 15th:
+## Day 7/100 October 15th:
 
 ### Progress : worked on the app suggestion idea
-# Day 6/100 October 14th:
+## Day 6/100 October 14th:
 ### Progress : Conception
 
 ## Day 5/100 October 13th:
 
-### Progress: Designed  the conception
+### Progress: 
 
+Today, I worked on designing the logo for the **Conception Project**. It is a web application woking as a directory for  app ideas as well as college project ideas. I noticed that the application did not have any favicon on its own. Instead, it was using Vercel's native favicon, lol. So, I opened an issue ([#17](https://github.com/roopeshsn/conception/issues/17)), design a logo using figma for Conception and made a favicon and push it. 
+
+Here is a picture with  on the right the vercel native favicon, and on the left the icon I designed.
+
+![image](https://user-images.githubusercontent.com/64711820/196618978-789ed1e1-810e-46e8-aed7-c19e52f947be.png)
+
+
+### Thoughts:
+
+This project was pretty hard to work for two reasons: Firstly, When I made my first commit, it seemed like the automation he has built has some issue and does deploy the app correctly. I am not even sure whether my change will be merge into production. Secondly, He was super rude, lol. Some people can be super mean when they work for free, lol.
+
+You can check out the Conception Web application [HERE](https://conception.vercel.app/)
 
 ## Day 4/100 October 12th:
 
 ### Progress :
 
-Today, I was supposed to work an open source project, but I  opened an issue into the wepo homepage. I was using and alert to notify the user that they have submitted a form, but after more reading I came across a library called toastr. A JavaScript library that is used for displaying alert messages. I opened an issue about that and labelled it as good first issue and I got someone suggesting to help implementing that into our project.
+Today, I was supposed to work on an open source project, but I got to experience as an maintener instead. I opened an issue into the wepo homepage. I was using and alert to notify the user that they have submitted a form, but after more reading I came across a library called toastr. A JavaScript library that is used for displaying alert messages. I opened an issue about that and labelled it as good first issue and I got someone suggesting to help implementing that into our project.
 I assigned that issue to him.
 
 ### Thoughts: 
