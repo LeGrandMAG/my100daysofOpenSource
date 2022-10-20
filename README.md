@@ -25,6 +25,15 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 
 ----------------------------
 
+## Day 11/100 October 20th:
+
+## Progress: 
+
+Today I came across a Book Finder open source project. The project itself
+
+## Thoughts:
+
+I opened my
 
 ## Day 10/100 October 19th:
 
@@ -32,9 +41,11 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 
 I just got a feedback from another contributors of the **Milan Project**. TIL that it is best practice to wrap you <a> in the h element and not the opposite. Also, I jut got my first ever [LGTM🎉🎉🎉](https://github.com/IAmTamal/Milan/pull/500#issuecomment-1283556823) . More dopamine!
   
-Might contribute to other open source projects later today, but let's see.
+Today, I opened an issue ([#26](https://github.com/fykaa/techOS-Bell/issues/26)) from the techOS-Bell project. It is a random project I found only but I thought it would be great to raise the issue. The issue was mostly about a simple Contributor headline text not having appropriate contrast. The the text was black whereas the background color is navy blueish. And got to solve the issue myself a little later. My pull request can be found at [**here**](https://github.com/fykaa/techOS-Bell/pull/34)
   
 ### Thoughts:
+
+This project was tech os bell a tech community. But I think the project itself was just like a template or not so real as a project.
   
 
 ## Day 9/100 October 18th:
