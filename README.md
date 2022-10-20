@@ -29,11 +29,17 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 
 ## Progress: 
 
-Today I came across a Book Finder open source project. The project itself
+Today I came across a Book Finder open source project. The project itself was quite easy. Using Vanilla javascript and making API call to google books and displaying the result of the list of books. I could built something like this too. 
+
+After looking for issue, on github, their was an issue open. It was about the footer overlapping witht he main content of the page. As I have a lot of understanding of css it was easily manageable, in less than 5 minutes I was done.
+
+The rest of the time was spent only open issue here and there.
+
+
 
 ## Thoughts:
 
-I opened my
+I opening issues is also a skills: Getting to know the project, understanding what's working and what's not, underlying what can be done so that the the project work correctly again. 
 
 ## Day 10/100 October 19th:
 
