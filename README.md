@@ -1,4 +1,7 @@
-# My 100 days of contributing to Open Source Projects.
+<h1 align="center">My 100 days of contributing to Open Source Projects.</h1>
+
+
+
 
 In this repository, I will be documenting my 100 days journey of progress on this wonderful words that is open - source.
 
@@ -61,14 +64,38 @@ Given that the  Hacktoberfest Leaderboard Project is not hosted live somewhere, 
 ## Day 13/100 October 22nd:
 
 
+### Progress:
+Today I did not contribute at all to open Source, but I just received my 2nd badge for contributing to Open Source Projects during the Hacktoberfest. 
+
+<p><em>It looks like this 👇🏾👇🏾👇🏾</em></p>
+<img alt="legrandmag's Holopin board" src="https://holopin.me/legrandmag" height="300" width="953.4" style="display:block; margin:0 auto;">.
+
+## Thoughts:
+
+This Hacktoberfest is such a dopamine feeder, lol. Always more dopamine, more dopamine and more dopamine.
 <!-- Today I just received my 2nd badge from the Hacktobefest  -->
 
 ## Day 12/100 October 21st:
 
+
+### Progress:
+
+I made some change request to that guy about the **Conception Project** I mentioned last time, but the maintainer kept ignoring me. Today he got back. Without any feedback, he just closed all my issues, without even merge my changes or providing some more explanation. I feel like I have wasted so much time on this project for nothing. But the good thing is I got an idea, I can try to implement for myself.
+
+### Thoughts:
+
+I will try to work on that project on my own. no matter what. And see the result. Good luck to myself.
+
+### Link
+
+The link to  the project can be found [here](https://github.com/roopeshsn/conception/pull/19)
+
+
 <!-- This guy just closed all my pull request and all my issues. I don't know why. -->
+
 ## Day 11/100 October 20th:
 
-## Progress: 
+### Progress: 
 
 Today I came across a Book Finder open source project. The project itself was quite easy. Using Vanilla javascript and making API call to google books and displaying the result of the list of books. I could built something like this too. 
 
@@ -78,7 +105,7 @@ The rest of the time was spent only open issue here and there.
 
 
 
-## Thoughts:
+### Thoughts:
 
 I opening issues is also a skills: Getting to know the project, understanding what's working and what's not, underlying what can be done so that the the project work correctly again. 
 
