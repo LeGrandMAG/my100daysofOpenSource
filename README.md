@@ -59,6 +59,10 @@ Given that the  Hacktoberfest Leaderboard Project is not hosted live somewhere, 
 
 
 ## Day 13/100 October 22nd:
+
+
+<!-- Today I just received my 2nd badge from the Hacktobefest  -->
+
 ## Day 12/100 October 21st:
 ## Day 11/100 October 20th:
 
