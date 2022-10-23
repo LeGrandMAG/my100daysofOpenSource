@@ -68,7 +68,7 @@ Given that the  Hacktoberfest Leaderboard Project is not hosted live somewhere, 
 Today I did not contribute at all to open Source, but I just received my 2nd badge for contributing to Open Source Projects during the Hacktoberfest. 
 
 <p><em>It looks like this 👇🏾👇🏾👇🏾</em></p>
-<img alt="legrandmag's Holopin board" src="https://holopin.me/legrandmag" height="300" width="953.4" style="display:block; margin:0 auto;">.
+<img alt="legrandmag's Holopin board" src="https://holopin.me/legrandmag" height="300" width="953.4" style="display:block; margin:0 auto;">
 
 ## Thoughts:
 
