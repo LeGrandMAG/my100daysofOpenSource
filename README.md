@@ -25,6 +25,41 @@ I hope this journey will be filled with a lot of teacheable moment, meeting with
 
 ----------------------------
 
+
+## Day 14/100 October 23th:
+
+## Progress:
+
+Today, I worked on a Hacktoberfest Leaderboard project. The project itself was built on Next.js and Typescript. The project is about displaying the list of all the people are signed in, have a github account and display the number of projects to which the comtributed to for this Hacktoberfest. It lists the user with the most contribution on the top and the one with the least contributions at the bottom.
+
+The issue I was working on was to display the user's profile image next to their username.  
+<img width="800px" src="https://user-images.githubusercontent.com/64711820/197387692-7144228c-6899-4860-aabe-f64e8853a6f6.png">
+
+
+This issue did not take me much time to solve (about 3mins). But I ran into some issue regarding my git account. I was not about to access my github through git. So I spent about 2 hours reading the documentations, googling and finally was about to reconfigure my gitconfig file. I had to generate work with ```SSH Key```, which is like a new work to me. The github documentations gave me clear orientation. 
+
+- Check if you already have any SSH key existing in your pc.
+- Generate a new SSH key.
+- Input a passpharase to protect your SSH key.
+- Copy the key into your clipboard.
+- Past it in your github.
+
+If you are interested about generating a SSH key, you can the github official documentation [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). I swear it is safer.
+
+### Thoughts
+
+
+One more thing that I had the opportunity to work on today was how to generate a loading page while you are waiting for your image  to render. Because the Leaderboard project had a loading page while fetching the data, I just had to look at the code logic and build my understanding from that.
+
+Now I am ready to build a loading screen whiile fetching data for other web app project.
+
+### Link
+
+Given that the  Hacktoberfest Leaderboard Project is not hosted live somewhere, I cannot directly share any link here. But if you still want to check that project (source code), it can be found [here](https://github.com/PEC-CSS/Hacktoberfest-Leaderboard).
+
+
+## Day 13/100 October 22nd:
+## Day 12/100 October 21st:
 ## Day 11/100 October 20th:
 
 ## Progress: 
