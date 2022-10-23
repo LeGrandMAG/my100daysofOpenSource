@@ -64,6 +64,8 @@ Given that the  Hacktoberfest Leaderboard Project is not hosted live somewhere, 
 <!-- Today I just received my 2nd badge from the Hacktobefest  -->
 
 ## Day 12/100 October 21st:
+
+<!-- This guy just closed all my pull request and all my issues. I don't know why. -->
 ## Day 11/100 October 20th:
 
 ## Progress: 
