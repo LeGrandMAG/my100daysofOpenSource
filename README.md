@@ -1,6 +1,6 @@
 <h1 align="center">My 100 days of contributing to Open Source Projects.</h1>
 
-
+I got sick for days and could not proceed with the OpenSource for many days. I will consider this challenge as a fail.
 
 
 In this repository, I will be documenting my 100 days journey of progress on this wonderful words that is open - source.
